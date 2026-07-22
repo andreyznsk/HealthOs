@@ -1,0 +1,17 @@
+# Raw medical documents should not be committed by default
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.tiff
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
